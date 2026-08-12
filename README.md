@@ -50,13 +50,6 @@ Make sure `StudentPerformanceFactors.csv` is in the same folder as `dashboard.py
 
 Attendance, Hours_Studied, and Previous_Scores are consistently the strongest predictors across both tasks.
 
-## Deployment
-
-To deploy the dashboard publicly:
-1. Push this repo to GitHub.
-2. Go to [share.streamlit.io](https://share.streamlit.io), connect the repo, and set `dashboard.py` as the entry point.
-3. Add the resulting live link to your submission as the Deployment Link deliverable.
-
 ## Scope
 
 Per the project brief, this system intentionally does not use deep learning, real-time monitoring, or large-scale platform architecture - it stays focused on a clean, functional prediction pipeline (Linear Regression / Decision Tree / Random Forest).

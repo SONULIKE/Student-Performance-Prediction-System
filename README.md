@@ -10,6 +10,7 @@ Machine Learning capstone project that analyzes student academic data, predicts 
 
 **Demo Video:-** https://drive.google.com/file/d/1zDMxPowsAiJavn6AWWzaEHUs2teyXcTc/view?usp=drive_link
 
+**Demo Video**- https://drive.google.com/file/d/1zDMxPowsAiJavn6AWWzaEHUs2teyXcTc/view?usp=drive_link
 ## What's in this repo
 
 | File | Description |

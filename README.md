@@ -2,10 +2,13 @@
 
 Machine Learning capstone project that analyzes student academic data, predicts exam performance, and generates personalized improvement recommendations.
 
-**Author:** Soham Mukherjee, B.Tech CSE (Data Science), Heritage Institute of Technology, Kolkata
-**Internship and Training:** SkillOrbit , Machine Learning
+**Author:-** Soham Mukherjee, B.Tech CSE (Data Science), Heritage Institute of Technology, Kolkata
 
-**Live link**- https://student-performance-prediction-system132.streamlit.app/
+**Internship and Training:-** SkillOrbit , Machine Learning
+
+**Live link:-** https://student-performance-prediction-system132.streamlit.app/
+
+**Demo Video:-** https://drive.google.com/file/d/1zDMxPowsAiJavn6AWWzaEHUs2teyXcTc/view?usp=drive_link
 
 ## What's in this repo
 
